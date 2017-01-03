@@ -90,3 +90,5 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 * [Eloquent JavaScript Intermission Homework](https://github.com/blakeworsley/intermission-skillsharing)
 * [SQL Homework](https://gist.github.com/blakeworsley/537e0e1dedd4cfa33d83d572b81f4c53)
 * [Electron Bookmarker](https://github.com/blakeworsley/bookmarker)
+* [Getting jQuery set up with Electron in 3 simple steps](https://medium.com/@blakeworsley/getting-jquery-set-up-with-electron-in-3-simple-steps-bca97c909b31#.n1lxl2448)
+* [fontFamily in React Native](https://medium.com/@blakeworsley/fontfamily-in-react-native-bd933b6cbb20#.anggdxy36)
